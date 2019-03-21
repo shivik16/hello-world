@@ -1,2 +1,2 @@
 # hello-world
-Hello World. I am Shivani 
+Hello World. I am Shivani Khare. I am a B.Tech student. 
